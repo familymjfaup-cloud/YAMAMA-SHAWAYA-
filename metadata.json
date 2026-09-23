@@ -1,0 +1,6 @@
+{
+  "name": "Yamama Shawaya | Luxury Arabic Restaurant",
+  "description": "Discover Yamama Shawaya in Perinthalmanna, Kerala — serving authentic slow-fired Shawaya, Arabian grilled chicken, fragrant mandi rice, and Middle Eastern delicacies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
